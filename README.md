@@ -1,3 +1,12 @@
+# GUI
+Requires No Other Downloads!
+
+Lz4 Binary Does Not Need To Be Downloaded As Its Embedded Into The GUI Exe!
+
+GUI Supports Drag And Drop!
+
+You Can Use The GUI As A Quick Way To Unpack By Opening A Packed File With The GUI!
+
 # SRTools
 Toolkit for modding Saints Row 2022 written in Go.
 ![](https://i.imgur.com/ib6Akqt.png)
