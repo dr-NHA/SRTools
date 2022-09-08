@@ -5,7 +5,7 @@ Lz4 Binary Does Not Need To Be Downloaded As Its Embedded Into The GUI Exe!
 
 GUI Supports Drag And Drop!
 
-You Can Use The GUI As A Quick Way To Unpack By Opening A Packed File With The GUI!
+You Can Use The GUI As A Quick Way To Unpack By Opening A Packed File With The GUI! (Right Click File -> Select Open With -> Locate The GUI)
 
 # SRTools
 Toolkit for modding Saints Row 2022 written in Go.
